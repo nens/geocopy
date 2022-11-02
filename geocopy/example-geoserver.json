@@ -1,0 +1,4 @@
+[{"geoserver_name": "geoserver9.lizard.net",
+  "logfile": "/var/log/nginx/access.log",
+  "data_dir": "/p-web-fs-00-d1/geoserver9/data"}
+]
